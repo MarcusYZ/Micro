@@ -1,0 +1,1 @@
+declare module 'code16.jsx';
